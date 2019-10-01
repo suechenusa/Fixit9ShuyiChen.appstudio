@@ -20,4 +20,4 @@ Submit.onclick=function(){
     Check.value="Something wrong with this app."
   }
 }
-*
+*/
